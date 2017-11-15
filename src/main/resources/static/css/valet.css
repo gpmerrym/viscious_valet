@@ -1,0 +1,48 @@
+* {
+	background: borderbox;
+	
+	
+}
+
+body {
+	background-image: url("/images/valet.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	font-family: helvetica;
+	font-size: 16px;
+}
+
+h1 {
+	
+	color: black;
+	font-size: 35px;
+	text-align: center;
+}
+
+
+
+label {
+	color: black;
+	font-size: 25px;
+	
+	
+	
+}
+
+input {
+	border: solid 4px black;
+	width: 35%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    
+    
+		
+}
+ button {
+ 	padding-top: 10px;
+ 	padding-bottom: 10px;
+ 	padding-left: 10px;
+ 	padding-right: 10px;
+ }
+ 
+ 
